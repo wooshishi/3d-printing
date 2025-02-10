@@ -6,7 +6,8 @@ Thumbs.db
 *.FCBak
 
 # files in WIP
-wip-*
+wip*
+WIP*
 
 # multimedia files
 *.mp3
