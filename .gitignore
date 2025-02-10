@@ -2,10 +2,13 @@
 .DS_Store
 Thumbs.db
 
-# exclude files in WIP
+# Freecad backup
+*.FCBak
+
+# files in WIP
 wip-*
 
-# exclude multimedia files
+# multimedia files
 *.mp3
 *.aup3
 *.itt
